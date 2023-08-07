@@ -3,13 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ejemplo1.algo;
+package ejemplo1;
 
 /**
  *
  * @author USURIO
  */
-public class clase2 {
-    private char s;
+public class ClaseFranco {
     
 }
